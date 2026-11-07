@@ -1,4 +1,3 @@
-```markdown
 # Smart Switch Actuator
 
 A Bluetooth-controlled device that physically flips a standard light switch on or off, without touching the switch's wiring.
@@ -56,4 +55,3 @@ smart-switch-actuator/
 4. 3D print the bracket
 5. Build the phone app and add Bluetooth control
 6. Test and tune the real device
-```
